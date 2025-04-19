@@ -1,0 +1,1 @@
+# kaspi_pos_terminal_simulator
